@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"/home/himanshu/Desktop/codeforces/Gym1/2.cpp","tests":[{"id":1608557159414,"input":"5 3\n5 4 1 2 3","output":"3"},{"id":1608557177503,"input":"11 7\n1 3 7 6 4 2 11 18 12 9 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/himanshu/Desktop/codeforces/Gym1/2.cpp","group":"local","local":true}

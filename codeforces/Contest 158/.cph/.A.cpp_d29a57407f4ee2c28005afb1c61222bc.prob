@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/himanshu/Desktop/codeforces/Contest 158/A.cpp","tests":[{"id":1608653150630,"input":"8 5\n10 9 8 7 7 7 5 5","output":"6"},{"id":1608653265239,"input":"4 2\n0 0 0 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/himanshu/Desktop/codeforces/Contest 158/A.cpp","group":"local","local":true}

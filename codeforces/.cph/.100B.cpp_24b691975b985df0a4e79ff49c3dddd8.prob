@@ -1,0 +1,1 @@
+{"name":"Local: 100B","url":"/home/himanshu/Desktop/codeforces/100B.cpp","tests":[{"id":1608662560866,"input":"3\n1,3,6","output":"FRIENDS"},{"id":1608662574031,"input":"3\n1,2,9","output":"NOT FRIENDS"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/himanshu/Desktop/codeforces/100B.cpp","group":"local","local":true}
